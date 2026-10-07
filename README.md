@@ -33,14 +33,17 @@ Passionné par la sécurité des systèmes d'information, j'ai construit mon par
 
 - **Cybersécurité** — tests d'intrusion, scan et analyse de vulnérabilités, threat intelligence, forensic, réponse à incident, durcissement de systèmes
 - **Systèmes & infra** — Linux, Windows, Proxmox, réseaux segmentés pour labs d'attaque/défense
-- **Développement** — PHP, C, Java, TypeScript / Next.js, SQL, Docker
+- **Développement** — Python, PHP, C, Java, TypeScript / Next.js, SQL, Docker
+- **Data & IA** — pandas, scikit-learn (clustering, classification), RAG
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white" alt="Proxmox">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white" alt="Obsidian">
 </p>
 
@@ -50,6 +53,7 @@ Passionné par la sécurité des systèmes d'information, j'ai construit mon par
 |---|---|
 | 🛡️ [Roadmap-cyber](https://github.com/DayRob/Roadmap-cyber) | La roadmap cybersécurité de roadmap.sh, enrichie (définitions, défenses, commandes) en « second cerveau » Obsidian |
 | 📚 [connaissance_transversale](https://github.com/DayRob/connaissance_transversale) | Base de connaissances open source en Markdown, ouverte aux contributions |
+| 🖼️ [Traitement de données massives](https://github.com/MaximeZoppini/TraitementDonneeMassiveProjet) | Projet d'initiation à l'IA (CPE Lyon, en binôme) : collecte d'images Wikidata parallélisée sous Docker, analyse et entraînement de modèles de reconnaissance d'images, recommandation personnalisée |
 | 🌎 [Cori](https://github.com/DayRob/Cori) | Site hors-ligne centralisant consulats et numéros d'urgence pour 5 pays d'Amérique latine |
 | 💡 [Idea Forge](https://github.com/DayRob/Service_prompteur) | Web app qui transforme une idée brute en prompt structuré pour Claude Code |
 | 📖 [Mediateq](https://github.com/DayRob/AP-WEB-MEDIATEC) | Portail web PHP MVC de médiathèque (projet d'équipe, BTS SIO) |
